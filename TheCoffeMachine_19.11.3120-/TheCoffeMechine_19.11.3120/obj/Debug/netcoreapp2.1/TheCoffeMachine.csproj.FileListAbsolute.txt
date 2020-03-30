@@ -1,0 +1,10 @@
+C:\Users\ASUS\Downloads\TheCoffeMechine_19.11.3148\bin\Debug\netcoreapp2.1\TheCoffeMachine.deps.json
+C:\Users\ASUS\Downloads\TheCoffeMechine_19.11.3148\bin\Debug\netcoreapp2.1\TheCoffeMachine.runtimeconfig.json
+C:\Users\ASUS\Downloads\TheCoffeMechine_19.11.3148\bin\Debug\netcoreapp2.1\TheCoffeMachine.runtimeconfig.dev.json
+C:\Users\ASUS\Downloads\TheCoffeMechine_19.11.3148\bin\Debug\netcoreapp2.1\TheCoffeMachine.dll
+C:\Users\ASUS\Downloads\TheCoffeMechine_19.11.3148\bin\Debug\netcoreapp2.1\TheCoffeMachine.pdb
+C:\Users\ASUS\Downloads\TheCoffeMechine_19.11.3148\obj\Debug\netcoreapp2.1\TheCoffeMachine.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\TheCoffeMechine_19.11.3148\obj\Debug\netcoreapp2.1\TheCoffeMachine.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\TheCoffeMechine_19.11.3148\obj\Debug\netcoreapp2.1\TheCoffeMachine.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\TheCoffeMechine_19.11.3148\obj\Debug\netcoreapp2.1\TheCoffeMachine.dll
+C:\Users\ASUS\Downloads\TheCoffeMechine_19.11.3148\obj\Debug\netcoreapp2.1\TheCoffeMachine.pdb
